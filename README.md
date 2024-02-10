@@ -4,7 +4,7 @@ This project deploys a computer vision model trained to detect common objects in
 
 ## Features
 
-- Real-time object detection
+- Object detection in images
 - Good balance of speed and accuracy in identifying common objects
 - Easy integration with existing projects using fastAPI
 
